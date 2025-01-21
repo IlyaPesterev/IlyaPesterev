@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hi there! 👋
+
+I'm Ilya, a developer specializing in **Go**. I love building efficient and scalable backend systems
+
+- 💻 Primary language: **Go**
+- 🚀 Passionate about: building high-performance APIs, microservices, and distributed systems.
+- 🌱 Currently exploring: advanced concurrency patterns and DevOps tools.
+
+### 📫 Connect with me:
+- Email: ya.hhhh.ya@mail.ru  
+- Telegram: @samediloa  
 
 <!--
 **IlyaPesterev/IlyaPesterev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
